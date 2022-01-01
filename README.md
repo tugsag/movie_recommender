@@ -1,4 +1,4 @@
-# Various attempts at making a movie recommender syste,
+# Various attempts at making a movie recommender system
 Different approaches are taken. Small movielens dataset for ncf and ranking_and_mf files. tmdb datasets for the content_filtering file. This repo is meant to be practice and as a launch point for others looking to get started with recommendation systems.
 
 
